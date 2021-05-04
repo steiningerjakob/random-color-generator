@@ -1,0 +1,11 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/steiningerjakob/random-color-generator.git",
+  "author": "“Jakob <steiningerjakob@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "randomcolor": "^0.6.2"
+  }
+}
