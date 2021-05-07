@@ -1,6 +1,6 @@
 // importing npm modules
-const randomColor = require('randomcolor'); // import the script
-const chalk = require('chalk'); // imports chalk script
+const randomColor = require('randomcolor');
+const chalk = require('chalk');
 
 // defining variables based on user input - next step would be to program a prompt
 const userInputHue = process.argv[2];
